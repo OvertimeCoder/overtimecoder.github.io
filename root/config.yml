@@ -1,0 +1,18 @@
+#--header--
+<link rel="stylesheet" href="css/part.css">
+<link rel="stylesheet" href="css/general.css">
+<header class="header">
+            <div class="header-inner inner">
+              <h1 class="header-title"><a href="#"><img src="./img/favicon.png" style="width: 70px;
+                height: 70px;"></a></h1>
+              <nav class="header-nav">
+                <ul class="header-nav-list">
+                  <li class="header-nav-item"><a class="header-nav-item-link" href="/about">About</a></li>
+                  <li class="header-nav-item"><a class="header-nav-item-link" href="#">Service</a></li>
+                  <li class="header-nav-item"><a class="header-nav-item-link" href="#">News</a></li>
+                  <li class="header-nav-item"><a class="header-nav-item-link" href="#">Blog</a></li>
+                  <li class="header-nav-item"><a class="header-nav-item-link" href="#">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+</header>
