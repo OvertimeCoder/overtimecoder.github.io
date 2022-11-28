@@ -1,0 +1,11 @@
+---
+type: blog
+siteurl: ./blog
+title: "Overtime Coder Blog"
+description: |
+  ブログサイトのテスト
+icon: ../img/favicon.png
+paginate: 12
+copyright: Overtime Coder © 2022
+author: Overtime Coder
+---
